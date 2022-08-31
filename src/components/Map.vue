@@ -10,11 +10,11 @@
 <br><br><br>
 <div class="subtitle"> - 대중교통 이용 시</div>
 <br>
-<div class="content"> 분당선 수원시청역 하차 후 도보 5분</div>
+<div class="content"> 가나다라마바사</div>
 <br>
 <div class="subtitle"> - 자가용 이용 시</div>
 <br>
-<div class="content"> 이비스 엠베서더 수원 주차장에 주차</div>
+<div class="content"> 가나다라마바사</div>
 <br>
 </template>
 <style>

@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="src/css/tabler-vendors.min.css">
   <link rel="stylesheet" type="text/css" href="src/css/tabler.min.css">
   <link rel="stylesheet" type="text/css" v-bind:href="type">
-  <br><br><br><br><br>
+  <br><br>
   <div class="title">신랑 신부에게 마음 전하는 곳</div>
 
   <a href="#0" class="cd-popup-trigger">신랑 신부에게 마음 전하기</a>
@@ -130,6 +130,8 @@
       <a href="#0" class="cd-popup-close img-replace">Close</a>
     </div> <!-- cd-popup-container -->
   </div> <!-- cd-popup -->
+  <hr class="cover-container">
+  <br>
 </template>
 <style>
 

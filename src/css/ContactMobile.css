@@ -1,0 +1,35 @@
+.contact-box{
+    display: flex;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.contact-box-item{
+    width:20%;
+    font-size: 120%;
+    font-family: 'NanumGothic-l';
+}
+
+.contact-box-item-b{
+    width:20%;
+    font-size: 120%;
+    font-family: 'NanumGothic-e';
+}
+
+.icon-width{
+    width:10%;
+}
+
+.icon-size{
+    width:15px;
+    height:auto;
+}
+
+.spacer5{
+    width:10%;
+}
+
+.spacer10{
+    width:10%;
+}

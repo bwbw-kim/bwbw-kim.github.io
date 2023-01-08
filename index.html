@@ -5,11 +5,11 @@
 </head>
 <body>
 <p><strong>아래 카카오톡 아이콘을 눌러 전송하세요</strong></p>
-<a id="kakao-link-btn" href="javascript:sendLink()">
+<button id="kakao-link-btn" onclick="=sendLink()">
   <img
     src="https://developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"
   />
-</a>
+</button>
 <script type="text/javascript">
  Kakao.init('a64f76d84059ef71e5ffc7289231a325');
   function sendLink() {

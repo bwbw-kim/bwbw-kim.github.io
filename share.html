@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>카카오톡 버튼있는 메시지 전송하기</title>
+<script id="javascript-sdk" src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
+</head>
+<body>
+<p><strong>공유중입니다.</strong></p>
+
+<script type="text/javascript">
+ Kakao.init('a64f76d84059ef71e5ffc7289231a325');
+  window.onload = function(){
+  sendLink()
+  }
+  function sendLink() {
+    Kakao.Link.sendDefault({
+      objectType: 'feed',
+      content: {
+        title: '김병욱 ♥ 박유정',
+        description: '2023. 03. 11.\n저희 결혼합니다.',
+        imageUrl:
+          'https://github.com/bwbw-kim/bwbw-kim.github.io/raw/main/YJ209056.jpg',
+        link: {
+          mobileWebUrl: 'https://0311.quv.kr',
+          webUrl: 'https://0311.quv.kr',
+        },
+      },
+      buttons: [
+        {
+          title: '모바일 청첩장',
+          link: {
+            mobileWebUrl: 'https://0311.quv.kr',
+            webUrl: 'https://0311.quv.kr',
+          },
+        },
+      ],
+    })
+  }
+</script>
+  </body>
+</html>

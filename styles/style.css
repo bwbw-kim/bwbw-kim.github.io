@@ -32,6 +32,12 @@ body {
   color: rgba(1, 1, 1, 0.7);
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .navigation a {
   font-size: 16px;
   padding-top: 8px;
@@ -279,12 +285,16 @@ a:hover {
   color: #fb913f;
 }
 
+.pbs {
+   padding-bottom: 15px;
+}
+
 .ptl {
-    padding-top: 50px
+    padding-top: 50px;
 }
 
 .pbl {
-    padding-bottom: 50px
+    padding-bottom: 50px;
 }
 
 @media screen and (max-width: 768px) {

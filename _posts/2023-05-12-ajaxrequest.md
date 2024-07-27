@@ -1,5 +1,5 @@
 ---
-title: spring에서 내가 보낸 ajaxRequest 거르기
+title: 🖐 spring에서 내가 보낸 ajaxRequest 거르기
 date: 2023-05-12
 categories: [Spring & JAVA]
 tags: [emptylist, ajax, request]

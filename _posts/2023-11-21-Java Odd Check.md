@@ -1,5 +1,5 @@
 ---
-title: Java 에서 홀수 확인하기 함정!
+title: 🙉 Java 에서 홀수 확인하기 함정!
 date: 2023-11-21
 categories: [Spring & JAVA]
 tags: [odd check]

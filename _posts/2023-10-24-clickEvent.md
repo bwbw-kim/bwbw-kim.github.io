@@ -1,5 +1,5 @@
 ---
-title: clickEventTracker 만들어서 어디 클릭했는지 알아보기
+title: 🔮 clickEventTracker 만들어서 어디 클릭했는지 알아보기
 date: 2023-10-24
 categories: [Front]
 tags: [click, tracker, django]

@@ -1,5 +1,5 @@
 ---
-title: Spring Scheduler 추가하기
+title: 🐽 Spring Scheduler 추가하기
 date: 2023-06-12
 categories: [Spring & JAVA]
 tags: [spring, scheduler]

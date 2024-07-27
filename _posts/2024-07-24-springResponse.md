@@ -1,5 +1,5 @@
 ---
-title: Spring Response 다양한 방식으로 주기
+title: 🍯 Spring Response 다양한 방식으로 주기
 date: 2024-07-24
 categories: [Spring & JAVA]
 tags: [spring, response]

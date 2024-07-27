@@ -1,5 +1,5 @@
 ---
-title: Java 에서 shallow, deep Copy 의 차이 알아보기
+title: 🌥 Java 에서 shallow, deep Copy 의 차이 알아보기
 date: 2024-05-27
 categories: [Spring & JAVA]
 tags: [copy, shallow, deep]

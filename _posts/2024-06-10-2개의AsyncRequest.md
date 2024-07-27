@@ -1,5 +1,5 @@
 ---
-title: 2개의 Ajax Request 가 같은 데이터를 수정한다면?
+title: 🏸 2개의 Ajax Request 가 같은 데이터를 수정한다면?
 date: 2024-06-10
 categories: [Front]
 tags: [ajax, async, race condition]

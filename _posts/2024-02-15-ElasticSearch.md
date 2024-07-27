@@ -1,5 +1,5 @@
 ---
-title: ElasticSearch Cluster 구성하기
+title: 💎 ElasticSearch Cluster 구성하기
 date: 2024-02-15
 categories: [DB]
 tags: [elastic search, cluster, load balancer]

@@ -1,5 +1,5 @@
 ---
-title: 영어 tokenizing 으로 검색 고도화 또 하기!
+title: 🚧 영어 tokenizing 으로 검색 고도화 또 하기!
 date: 2024-04-22
 categories: [Spring & JAVA]
 tags: [token, English]

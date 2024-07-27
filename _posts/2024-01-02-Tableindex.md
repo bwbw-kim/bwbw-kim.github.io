@@ -1,5 +1,5 @@
 ---
-title: Mysql table Index 설정하기
+title: 👁️‍🗨️ Mysql table Index 설정하기
 date: 2024-01-02
 categories: [DB]
 tags: [pair, index]

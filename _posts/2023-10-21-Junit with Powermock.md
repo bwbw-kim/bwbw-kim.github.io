@@ -1,5 +1,5 @@
 ---
-title: 간단한 Junit Testcase 만들어보기!
+title: Mock 을 이용해서 Test Case 만들어 보기
 date: 2023-10-21
 categories:
   - Spring & JAVA

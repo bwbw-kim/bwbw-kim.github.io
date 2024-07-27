@@ -1,5 +1,5 @@
 ---
-title: Spring으로 Json Response 로 주기
+title: 🤙 Spring으로 Json Response 로 주기
 date: 2023-04-18
 categories: [Spring & JAVA]
 tags: [spring, basic, json]

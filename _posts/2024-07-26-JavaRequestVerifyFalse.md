@@ -47,4 +47,5 @@ Map <String, Object> responseMap = restTemplate.exchange(url, method, httpEntity
 이제.. 사내에서 ssl verify false 를 하면서 request 를 할 수 있다!
 
 #### 하지만 사외에서는 함부로 하면 안돼
+---
 왜냐면 인증 받지 않은 곳의 public key 는 private key 가 여기 저기 돌아다니고 있을 수 있으니 내가 보낸 packet 이 복호화될 가능성이 있다! 주의 해야한다 !!!

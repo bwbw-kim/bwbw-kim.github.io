@@ -20,6 +20,7 @@ render_with_liquid: false
 request 부터 response 받는 것이 시간이 오래 걸리는걸 어떻게 줄일까 생각을 하다 이 친구를 비동기로 해버리면 request 도 가고 사용자가 느끼기에도 이전과 거의 유사하게 느낄 수 있겠다고 생각했다.
 
 #### 코드는 이렇다!
+---
 원래 코드는 다음과 같았다.
 ```java
 private void sendPostInfoToBulletinBoard (String postId, String content, String title) {
@@ -37,6 +38,7 @@ private CompletableFuture<Boolean> sendPostInfoToBulletinBoard(String postId, St
 이렇게 사소한 수정으로도 시간은 100ms 이상 단축이 된다!
 
 #### 이렇게 수정하고 나니
+---
 이렇게 수정하고 나니까
 1. 글을 올리고 메일 알림을 설정한 사람들에게 메일 보내는 동작
 2. 전체 사용자에게 특정 space 권한을 부여하는 작업

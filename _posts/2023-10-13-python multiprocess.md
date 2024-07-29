@@ -11,6 +11,8 @@ render_with_liquid: false
 
 역시 파이썬에는 이게 매우 쉽게 할수 있도록 되어있었다!
 
+#### Multiprocess 사용하기
+---
 예를 들어 어떤 함수가 5초 걸린다고 해보자
 ```python
 def print_what_i_have(n):

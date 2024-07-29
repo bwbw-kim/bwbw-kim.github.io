@@ -23,6 +23,7 @@ render_with_liquid: false
 사실은 여기까지만 있어도 spring 의 `question/edit` 으로 post request 를 보낼수가 있게 된다. 하지만! 이것은 단점이 있다.
 
 #### submit 을 가로채기?
+---
 우리 플랫폼은 submit event 를 샥 가로채서 ajax 로 처리를 하고 있다. 코드는 아래와 같다!
 
 ```js
@@ -62,5 +63,6 @@ submitFormSnatcher("form.edit-post", function (data, status, xhr, form) {
 ```
 
 #### 왜? submit 을 가로챌까?
+---
 submit 을 그러면 ajax 로 비동기로 보내기 때문에 사용자에게 로딩 표시를 보여주어 사용자가 사이트가 느리지 않다라고 느끼게 해줄 수 있다!
 또한 callback 함수 error 시 handling 해줄 수 있는 함수를 넣어 줄 수 있게되어 아주 사용이 유용하다!

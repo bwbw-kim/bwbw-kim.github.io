@@ -6,6 +6,7 @@ tags: [copy, shallow, deep]
 render_with_liquid: false
 ---
 #### Copy 의 2가지 종류 Shallow, Deep
+---
 자바에서 객체를 복사하는데에 는 2가지 경우가 있다. 얕은 (shallow) 복사와 깊은 (deep)복사!
 이걸 잘 모르고 개발하다보면 종종 실수하는 경우가 있어서 이번 기회를 통해 정리하고자 한다!
 

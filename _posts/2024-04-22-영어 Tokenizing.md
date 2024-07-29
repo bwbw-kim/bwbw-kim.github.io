@@ -11,6 +11,7 @@ render_with_liquid: false
 이때 대문자 기준으로 하나씩 띄워져서 검색을 하고 싶은데 실제 Indexing 을 devletter 로 들어가 있으니까 검색이 잘 되지 않았다.
 
 #### Regex 로 해결하기
+---
 물론 돌면서 UpperCase 인지 확인하는 방법도 있지만 java 의 string split 은 regex 를 input 으로 받기때문에 조금 더 간단하게 해결하였다.
 
 ```java

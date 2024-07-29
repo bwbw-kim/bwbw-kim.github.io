@@ -13,7 +13,7 @@ Spring 은 아주 많은 곳에서 사용하는 Backend Framework 이다! 열심
 아니면 항상 response 에 추가해 줘야하는 값이 있다던가! 이런 상황이 있을 수 있는데 이때 사용 할 수 있는것이 바로 interceptor 이다.
 
 #### 예를 들어보자!
-
+---
 ```java
 @GetMapping("/user/{id}")
 public getUserInfo (...){

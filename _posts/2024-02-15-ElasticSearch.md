@@ -19,6 +19,7 @@ Q&A Platform  -> load balancer -> elastic search 1
 ```
 
 #### 우선은 하나만 띄워보자!
+---
 우선 Elastic Search image 를 가져왔다 docker search 를 사용하면 elastic Search 가 있다. 다운 받아준 다음에 다음과 같이 실행한다
 ```bash
 docker run -d --name elastic-search-ev -e discovery.type=single-node -p 8080:9200 -p 50004:9300 elasticsearch:x.x.x
@@ -26,6 +27,7 @@ docker run -d --name elastic-search-ev -e discovery.type=single-node -p 8080:920
 
 9200 은 실제로 elastic search 에 우리가 요청하는 포트이고 9300 은 elastic search 를 cluster 로 연결했을때 사용되는 포트이다!
 #### 혹시 이런 에러가 발생했다면?
+---
 ```bash
 bootstrap checks failed
 max virtual memory areas vm.max_map_count [] is too low

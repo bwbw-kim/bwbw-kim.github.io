@@ -36,4 +36,5 @@ public String updateTopPosts(HttpServletRequest request,
 이렇게 시작하자마다 권한을 확인하고 권한에 맞지않으면 return 혹은 raise Exception 을 해버리면 indent 도 하나줄고 보기에 아주 편하다!
 
 #### 단 주의할 점이 있다!
+---
 if 안에 들어가는 내용은 보통 긍정인 경우 개발자들이 읽기 쉬워한다고 한다! 따라서 같이 협업하는 사람들끼리 이야기하고 서로 스타일을 맞추어야할 필요가 있을 거 같다!

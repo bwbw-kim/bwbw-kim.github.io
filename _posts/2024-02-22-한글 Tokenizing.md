@@ -3,7 +3,7 @@ title: 🐡 한글 tokenizing 으로 검색 고도화 하기
 date: 2024-02-22
 categories: [Spring & JAVA]
 tags: [korean, token]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### 한글 검색이 잘 되지 않는다!
 ---

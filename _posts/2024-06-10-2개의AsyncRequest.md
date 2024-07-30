@@ -3,7 +3,7 @@ title: 🏸 2개의 Ajax Request 가 같은 데이터를 수정한다면?
 date: 2024-06-10
 categories: [Front]
 tags: [ajax, async, race condition]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### profile 을 동시에 2곳에서 수정하고있다?
 ---

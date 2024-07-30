@@ -3,7 +3,7 @@ title: 🐽 Spring Scheduler 추가하기
 date: 2023-06-12
 categories: [Spring & JAVA]
 tags: [spring, scheduler]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### 하루에 한번씩 돌리기
 ---

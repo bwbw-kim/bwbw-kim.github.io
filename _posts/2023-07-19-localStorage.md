@@ -3,7 +3,7 @@ title: 🌮 Cookie 와 LocalStorage 차이는 뭘까?
 date: 2023-07-19
 categories: [Front]
 tags: [cookie, localstorage]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### LocalStorage vs Cookie
 ---

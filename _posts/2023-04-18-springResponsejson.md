@@ -3,7 +3,7 @@ title: 🤙 Spring으로 Json Response 로 주기
 date: 2023-04-18
 categories: [Spring & JAVA]
 tags: [spring, basic, json]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### Spring Repsonse 로 View 가 아닌 Json 주기
 ---

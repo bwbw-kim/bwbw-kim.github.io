@@ -3,7 +3,7 @@ title: 🏀 Python Multiprocess 로 여러개 Thread 로 실행하기
 date: 2023-10-13
 categories: [Python]
 tags: [python, multiprocess]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### 메일 보내는 API 가 response 가 너무 느리다
 ---

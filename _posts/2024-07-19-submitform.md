@@ -3,7 +3,7 @@ title: 🍺 submit, form 을 더 사용하기 쉽게
 date: 2024-07-19
 categories: [Front]
 tags: [submit, form]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### submitform binding
 ---

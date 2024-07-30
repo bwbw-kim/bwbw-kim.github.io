@@ -3,7 +3,7 @@ title: 💎 ElasticSearch Cluster 구성하기
 date: 2024-02-15
 categories: [DB]
 tags: [elastic search, cluster, load balancer]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### ElasticSearch Cluster 구성하기
 ---

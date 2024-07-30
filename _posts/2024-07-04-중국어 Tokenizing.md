@@ -3,7 +3,7 @@ title: 🌏 영어 tokenizing 으로 검색 고도화 또또 하기!
 date: 2024-07-04
 categories: [Spring & JAVA]
 tags: [global, chinese, token]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### 중국어 tokenizing
 ---

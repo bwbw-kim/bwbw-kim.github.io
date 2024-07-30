@@ -8,7 +8,7 @@ tags:
   - mock
   - powermock
   - spring
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### 의존성 있는 Class 가 안에 있다면?
 ---

@@ -3,7 +3,7 @@ title: 🌿 Guard Clause 로 CleanCode
 date: 2023-07-11
 categories: [misc]
 tags: [if, guard clause, clean code]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### CleanCode를 위하여!
 ---

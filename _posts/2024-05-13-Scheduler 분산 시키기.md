@@ -6,7 +6,7 @@ categories:
 tags:
   - spring
   - scheduler
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### Scheduler 주기 정하기
 ---

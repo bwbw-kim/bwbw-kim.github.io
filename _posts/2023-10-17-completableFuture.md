@@ -3,7 +3,7 @@ title: 📼 completableFuture 사용하여 함수를 비동기로 실행하기
 date: 2023-10-17
 categories: [Python]
 tags: [completableFuture, async]
-render_with_liquid: false
+render_with_liquid: true
 ---
 #### 사내 게시판과의 연동
 ---

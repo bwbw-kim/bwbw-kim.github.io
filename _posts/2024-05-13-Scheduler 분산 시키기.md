@@ -7,6 +7,7 @@ tags:
   - spring
   - scheduler
 render_with_liquid: true
+mermaid: true
 ---
 #### Scheduler 주기 정하기
 ---

@@ -3,7 +3,8 @@ title: 🔐 Sql Injection 보안 문제
 date: 2023-03-06
 categories: [misc]
 tags: [SqlInjection, Search]
-render_with_liquid: false
+render_with_liquid: true
+mermaid: true
 ---
 #### 검색할때 발생한 Sql injection 보안 문제 해결해보자!
 ---

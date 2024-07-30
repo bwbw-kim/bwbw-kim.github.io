@@ -4,6 +4,7 @@ date: 2023-04-25
 categories: [Spring & JAVA]
 tags: [spring, interceptor]
 render_with_liquid: true
+mermaid: true
 ---
 #### Spring 에서 Interceptor 를 써보자
 ---

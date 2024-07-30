@@ -4,6 +4,7 @@ date: 2023-06-12
 categories: [Spring & JAVA]
 tags: [spring, scheduler]
 render_with_liquid: true
+mermaid: true
 ---
 #### 하루에 한번씩 돌리기
 ---

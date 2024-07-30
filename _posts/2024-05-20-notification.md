@@ -4,6 +4,7 @@ date: 2024-05-20
 categories: [Front]
 tags: [notification]
 render_with_liquid: true
+mermaid: true
 ---
 #### 팝업 공지 보지 않기를 개발해보자
 ---

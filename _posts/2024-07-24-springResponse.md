@@ -4,6 +4,7 @@ date: 2024-07-24
 categories: [Spring & JAVA]
 tags: [spring, response]
 render_with_liquid: true
+mermaid: true
 ---
 #### Spring Response 하나의 method 에서 view 와 json 을 모두 리턴하기
 ---

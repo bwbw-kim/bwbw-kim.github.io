@@ -4,6 +4,7 @@ date: 2023-07-19
 categories: [Front]
 tags: [cookie, localstorage]
 render_with_liquid: true
+mermaid: true
 ---
 #### LocalStorage vs Cookie
 ---

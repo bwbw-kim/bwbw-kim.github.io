@@ -4,6 +4,7 @@ date: 2023-10-17
 categories: [Python]
 tags: [completableFuture, async]
 render_with_liquid: true
+mermaid: true
 ---
 #### 사내 게시판과의 연동
 ---

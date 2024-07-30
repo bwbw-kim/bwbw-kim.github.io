@@ -4,6 +4,7 @@ date: 2024-06-10
 categories: [Front]
 tags: [ajax, async, race condition]
 render_with_liquid: true
+mermaid: true
 ---
 #### profile 을 동시에 2곳에서 수정하고있다?
 ---

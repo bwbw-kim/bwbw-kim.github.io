@@ -4,6 +4,7 @@ date: 2023-05-03
 categories: [Spring & JAVA]
 tags: [emptylist, collections]
 render_with_liquid: true
+mermaid: true
 ---
 #### EmptyList 가 리턴된다
 ---

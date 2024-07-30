@@ -4,6 +4,7 @@ date: 2024-05-27
 categories: [Spring & JAVA]
 tags: [copy, shallow, deep]
 render_with_liquid: true
+mermaid: true
 ---
 #### Copy 의 2가지 종류 Shallow, Deep
 ---

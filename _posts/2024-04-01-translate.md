@@ -4,6 +4,7 @@ date: 2024-04-01
 categories: [Front]
 tags: [translate, global]
 render_with_liquid: true
+mermaid: true
 ---
 #### 페이지 번역 서비스를 만들자
 ---

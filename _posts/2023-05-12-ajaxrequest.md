@@ -4,6 +4,7 @@ date: 2023-05-12
 categories: [Spring & JAVA]
 tags: [emptylist, ajax, request]
 render_with_liquid: true
+mermaid: true
 ---
 #### ajaxRequest 거르기
 ---

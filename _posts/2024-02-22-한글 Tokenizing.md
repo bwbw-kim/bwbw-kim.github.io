@@ -4,6 +4,7 @@ date: 2024-02-22
 categories: [Spring & JAVA]
 tags: [korean, token]
 render_with_liquid: true
+mermaid: true
 ---
 #### 한글 검색이 잘 되지 않는다!
 ---

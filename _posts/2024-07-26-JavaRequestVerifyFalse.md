@@ -4,6 +4,7 @@ date: 2024-07-26
 categories: [Spring & JAVA]
 tags: [request, ssl]
 render_with_liquid: true
+mermaid: true
 ---
 #### Java 에서 Request 보내는데 SSL에러가 난다
 ---

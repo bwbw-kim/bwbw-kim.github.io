@@ -4,6 +4,7 @@ date: 2024-05-29
 categories: [Spring & JAVA]
 tags: [copy, clone]
 render_with_liquid: true
+mermaid: true
 ---
 #### 주소값이 다르도록 복사하기!
 ---

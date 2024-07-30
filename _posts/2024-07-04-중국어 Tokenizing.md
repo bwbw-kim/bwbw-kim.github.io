@@ -4,6 +4,7 @@ date: 2024-07-04
 categories: [Spring & JAVA]
 tags: [global, chinese, token]
 render_with_liquid: true
+mermaid: true
 ---
 #### 중국어 tokenizing
 ---

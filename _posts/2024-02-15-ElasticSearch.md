@@ -4,6 +4,7 @@ date: 2024-02-15
 categories: [DB]
 tags: [elastic search, cluster, load balancer]
 render_with_liquid: true
+mermaid: true
 ---
 #### ElasticSearch Cluster 구성하기
 ---
@@ -13,9 +14,10 @@ Elastic Search Cluster 는 둘다 같은 정보를 가지고 있고 요청은 �
 
 따라서 생각해본 구조도는 다음과 같다.
 
-```
-Q&A Platform  -> load balancer -> elastic search 1
-                               -> elastic search 2
+```mermaid
+graph LR
+    QNAplatform --> LoadBalancer --> ElasticSearch1
+    LoadBalancer --> ElasticSearch2
 ```
 
 #### 우선은 하나만 띄워보자!

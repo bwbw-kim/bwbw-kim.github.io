@@ -4,6 +4,7 @@ date: 2024-07-19
 categories: [Front]
 tags: [submit, form]
 render_with_liquid: true
+mermaid: true
 ---
 #### submitform binding
 ---

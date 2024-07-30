@@ -4,6 +4,7 @@ date: 2023-10-13
 categories: [Python]
 tags: [python, multiprocess]
 render_with_liquid: true
+mermaid: true
 ---
 #### 메일 보내는 API 가 response 가 너무 느리다
 ---

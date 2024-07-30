@@ -4,6 +4,7 @@ date: 2024-04-22
 categories: [Spring & JAVA]
 tags: [token, English]
 render_with_liquid: true
+mermaid: true
 ---
 #### 영어 tokenizing
 ---

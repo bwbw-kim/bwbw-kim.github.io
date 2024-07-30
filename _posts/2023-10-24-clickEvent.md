@@ -4,6 +4,7 @@ date: 2023-10-24
 categories: [Front]
 tags: [click, tracker, django]
 render_with_liquid: true
+mermaid: true
 ---
 #### Click Event 를 트래킹해보자
 ---

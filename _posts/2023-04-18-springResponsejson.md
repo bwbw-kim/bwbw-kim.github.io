@@ -4,6 +4,7 @@ date: 2023-04-18
 categories: [Spring & JAVA]
 tags: [spring, basic, json]
 render_with_liquid: true
+mermaid: true
 ---
 #### Spring Repsonse 로 View 가 아닌 Json 주기
 ---

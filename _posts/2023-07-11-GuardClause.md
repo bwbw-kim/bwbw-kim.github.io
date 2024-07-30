@@ -4,6 +4,7 @@ date: 2023-07-11
 categories: [misc]
 tags: [if, guard clause, clean code]
 render_with_liquid: true
+mermaid: true
 ---
 #### CleanCode를 위하여!
 ---

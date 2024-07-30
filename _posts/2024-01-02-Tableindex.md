@@ -2,8 +2,9 @@
 title: 👁️‍🗨️ Mysql table Index 설정하기
 date: 2024-01-02
 categories: [DB]
-tags: [pair, index]
+tags: [mysql, index]
 render_with_liquid: true
+mermaid: true
 ---
 #### 게시글에 들어갔을때 시간이 오래 걸린다!
 ---

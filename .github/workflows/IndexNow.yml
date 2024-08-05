@@ -1,0 +1,19 @@
+name: 'IndexNow'
+on:
+  schedule:
+    # 매일 밤 2시에 워크플로우 실행
+    - cron: '0 19 * * *'
+
+  # 저장소의 Actions 탭에서 수동으로 실행가능하게 하는 옵션
+  workflow_dispatch:
+
+jobs:
+  check-and-submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: indexnow-action
+        uses: bojieyang/indexnow-action@v2
+        with:
+          sitemap-location: 'https://bwbw-kim.github.io/sitemap.xml'
+          key: ${{ secrets.INDEXNOW_KEY }}
+          endpoint: 'api.indexnow.org'

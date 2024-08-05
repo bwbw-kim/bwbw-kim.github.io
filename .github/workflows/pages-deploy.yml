@@ -56,6 +56,10 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
+      - name: IndexNow Setup
+        run: |
+            echo ${{ secrets.INDEXNOW_KEY }} > _site/${{ secrets.INDEXNOW_KEY }}.txt
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:

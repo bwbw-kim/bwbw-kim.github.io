@@ -2,7 +2,7 @@
 title: ❤️ synchronized 사용해서 method atomic 하게 만들기!
 date: 2024-05-03
 categories: [Spring & JAVA]
-tags: [synchronize]
+tags: [synchronize, multithread]
 render_with_liquid: true
 mermaid: true
 ---

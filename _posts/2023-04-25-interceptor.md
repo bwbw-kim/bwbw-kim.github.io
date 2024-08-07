@@ -1,5 +1,5 @@
 ---
-title: 🤙 Spring Interceptor 이해하기
+title: 🤙 Spring Interceptor 가 도대체 뭔지 이해 해보기
 date: 2023-04-25
 categories: [Spring & JAVA]
 tags: [spring, interceptor]

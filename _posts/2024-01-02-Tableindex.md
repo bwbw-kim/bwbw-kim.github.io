@@ -1,5 +1,5 @@
 ---
-title: 👁️‍🗨️ Mysql table Index 설정하기
+title: 👁️‍🗨️ Mysql DB Index 설정해서 Query 훨씬 빠르게 만들어보기
 date: 2024-01-02
 categories: [DB]
 tags: [mysql, index]

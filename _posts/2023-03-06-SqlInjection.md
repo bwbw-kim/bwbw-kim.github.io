@@ -1,5 +1,5 @@
 ---
-title: 🔐 Sql Injection 보안 문제
+title: 🔐 Sql Injection 보안 문제 해결 할 수 있을까?
 date: 2023-03-06
 categories: [misc]
 tags: [SqlInjection, Search]

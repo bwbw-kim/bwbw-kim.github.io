@@ -1,5 +1,5 @@
 ---
-title: 🍯 Spring Response 다양한 방식으로 주기
+title: 🍯 Spring Response 하나의 method 에서 다양하게 주기 (view, json)
 date: 2024-07-24
 categories: [Spring & JAVA]
 tags: [spring, response]

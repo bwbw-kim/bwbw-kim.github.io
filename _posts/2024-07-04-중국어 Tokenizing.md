@@ -1,8 +1,8 @@
 ---
-title: 🌏 영어 tokenizing 으로 검색 고도화 또또 하기!
+title: 🌏 중국어 tokenizing 으로 중국어 형태소를 분리해버리기. (검색 고도화)
 date: 2024-07-04
 categories: [Spring & JAVA]
-tags: [global, chinese, token]
+tags: [global, chinese, token, search]
 render_with_liquid: true
 mermaid: true
 ---

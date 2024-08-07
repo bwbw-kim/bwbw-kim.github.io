@@ -1,5 +1,5 @@
 ---
-title: 📼 completableFuture 사용하여 함수를 비동기로 실행하기
+title: 📼 completableFuture 사용하여 내가 원하는 특정 함수를 비동기로 실행하기
 date: 2023-10-17
 categories: [Python]
 tags: [completableFuture, async]

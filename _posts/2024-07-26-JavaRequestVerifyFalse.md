@@ -1,5 +1,5 @@
 ---
-title: 🐥 Java Request SSL 인증 하지 않고 요청 보내기
+title: 🐥 Java Request 보낼 때 SSL 인증 하지 않고 요청 보내기 (java request verify false)
 date: 2024-07-26
 categories: [Spring & JAVA]
 tags: [request, ssl]

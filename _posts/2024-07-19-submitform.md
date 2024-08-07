@@ -1,5 +1,5 @@
 ---
-title: 🍺 submit, form 을 더 사용하기 쉽게
+title: 🍺 submit 을 사용 할 때 훨씬 확장성있게, 속도감 있게 만드는 방법
 date: 2024-07-19
 categories: [Front]
 tags: [submit, form]

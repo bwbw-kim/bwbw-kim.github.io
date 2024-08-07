@@ -1,5 +1,5 @@
 ---
-title: 🚕 Springboot Thread 개수 늘리기
+title: 🚕 Springboot 최대 Thread 개수 늘리기
 date: 2024-08-05
 categories: [Spring & JAVA]
 tags:

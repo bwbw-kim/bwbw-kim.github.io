@@ -1,5 +1,5 @@
 ---
-title: 🔮 clickEventTracker 만들어서 어디 클릭했는지 알아보기
+title: 🔮 Click Event Tracker 만들어서 사용자가 어디 클릭했는지 알아보기
 date: 2023-10-24
 categories: [Front]
 tags: [click, tracker, django]
@@ -16,7 +16,16 @@ mermaid: true
 django 로 띄우고 js 도 cdn 처럼 다른 곳에서 import 할 수 있도록 하려고 한다.
 
 가장 기본적인 js코드는 다음과 같다. 사용자의화면 사이즈도 알고 싶어서 width, height 를 넣었고 width 에 따라 click 은 달라질수있기에 어느 element 를 눌렀는지도 추가하였다.
+
 ```js
+function getElementSelector(element) {
+	if (!(element instanceof Element)) return '';
+	const tag = element.tagName.toLowerCase();
+	const id = element.id ? `#${element.id}` : '';
+	const classes = Array.from(element.classList).map(cls => `.${cls}`).join('');
+	return `${tag}${id}${classes}`;
+}
+
 window.document.addEventListener("click", (position) => {
 	// django 로 request 보내도록
 	sendReport("click", {
@@ -25,7 +34,7 @@ window.document.addEventListener("click", (position) => {
 			height: window.innerHeight,
 			x: position.pageX,
 			y: position.pageY,
-			el: position.target
+			el: getElementSelector(position.target)
 		}
 	})
 })

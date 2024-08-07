@@ -1,5 +1,5 @@
 ---
-title: 💎 ElasticSearch Cluster 구성하기
+title: 💎 ElasticSearch 단일 노드부터 2개 노드 Cluster 구성하기
 date: 2024-02-15
 categories: [DB]
 tags: [elastic search, cluster, load balancer]

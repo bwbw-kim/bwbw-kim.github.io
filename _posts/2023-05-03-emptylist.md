@@ -1,5 +1,5 @@
 ---
-title: 🍽️ emptyList 라는건 언제 쓰는걸까 ?
+title: 🍽️ Java 에서 자주 사용하는 Collection emptyList 라는건 언제 쓰는걸까?
 date: 2023-05-03
 categories: [Spring & JAVA]
 tags: [emptylist, collections]

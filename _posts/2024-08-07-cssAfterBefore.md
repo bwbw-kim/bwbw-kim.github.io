@@ -1,5 +1,5 @@
 ---
-title: 🏐 css after 그리고 before
+title: 🏐 css after 그리고 before 간단하게 이해해보기
 date: 2024-08-07
 categories:
   - Front

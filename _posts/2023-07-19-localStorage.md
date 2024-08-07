@@ -1,5 +1,5 @@
 ---
-title: 🌮 Cookie 와 LocalStorage 차이는 뭘까?
+title: 🌮 Cookie 와 LocalStorage 차이 알아보기 (Cookie vs LocalStorage)
 date: 2023-07-19
 categories: [Front]
 tags: [cookie, localstorage]

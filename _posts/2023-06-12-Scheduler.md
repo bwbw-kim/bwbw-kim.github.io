@@ -1,5 +1,5 @@
 ---
-title: 🐽 Spring Scheduler 추가하기
+title: 🐽 Spring 에서 Scheduler 추가 해서 주기적으로 특정 함수 돌리기
 date: 2023-06-12
 categories: [Spring & JAVA]
 tags: [spring, scheduler]

@@ -1,5 +1,5 @@
 ---
-title: 🏀 Python Multiprocess 로 여러개 Thread 로 실행하기
+title: 🏀 Python Multiprocess 로 여러개 Thread 로 한방에 실행하기 (시간 줄이기!)
 date: 2023-10-13
 categories: [Python]
 tags: [python, multiprocess]

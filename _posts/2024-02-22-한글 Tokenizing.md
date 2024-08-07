@@ -1,5 +1,5 @@
 ---
-title: 🐡 한글 tokenizing 으로 검색 고도화 하기
+title: 🐡 한글 tokenizing 으로 단어로도 잘 검색 되도록 검색 고도화 하기
 date: 2024-02-22
 categories: [Spring & JAVA]
 tags: [korean, token]

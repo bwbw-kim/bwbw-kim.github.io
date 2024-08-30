@@ -40,7 +40,7 @@ order: 4
 - Ehcache를 사용하여 성능 개선 (5초 → 1초 이내)
 - SSE를 사용하여 브라우저 알림 기능 추가
 - 사내 SSO 서비스와 연결
-- 사내 중국 법인 오픈을 위한 페이지 번역기능 추가
+- 중국,인도 법인 오픈을 위한 번역기능 (전체 번역, 일부 번역, 원문 돌아가기) 추가
 
 기술 스택: Springboot, Javascript, Mysql, Elastic Search
 

@@ -1,5 +1,5 @@
 ---
-title: Submit 속도와 유연성 높이기: AJAX로 폼 제출을 최적화하는 비법
+title: "Submit 속도와 유연성 높이기: AJAX로 폼 제출을 최적화하는 비법"
 date: 2024-07-19
 categories: [Front]
 tags: [submit, form]

@@ -1,5 +1,5 @@
 ---
-title: Scheduler 분산하기: Spring 애플리케이션의 CPU 사용량 최적화하기
+title: "Scheduler 분산하기: Spring 애플리케이션의 CPU 사용량 최적화하기"
 date: 2024-05-13
 categories:
   - Spring & JAVA

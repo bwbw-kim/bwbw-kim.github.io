@@ -1,5 +1,5 @@
 ---
-title: Java에서 홀수 확인 시 주의할 점! (홀수 판별 꿀팁과 주의사항)
+title: "Java에서 홀수 확인 시 주의할 점! (홀수 판별 꿀팁과 주의사항)"
 date: 2023-11-21
 categories: [Spring & JAVA]
 tags: [odd check]

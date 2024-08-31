@@ -1,5 +1,5 @@
 ---
-title: 한글 검색 개선하기: TwitterKoreanProcessor를 이용한 Token화 방법
+title: "한글 검색 개선하기: TwitterKoreanProcessor를 이용한 Token화 방법"
 date: 2024-02-22
 categories: [Spring & JAVA]
 tags: [korean, token]

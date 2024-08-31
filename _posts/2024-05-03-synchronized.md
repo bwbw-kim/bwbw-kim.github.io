@@ -1,5 +1,5 @@
 ---
-title: synchronized로 메서드의 동시 접근 제어하기
+title: "synchronized로 메서드의 동시 접근 제어하기"
 date: 2024-05-03
 categories: [Spring & JAVA]
 tags: [synchronize, multithread]

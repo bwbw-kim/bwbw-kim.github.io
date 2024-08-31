@@ -1,5 +1,5 @@
 ---
-title: Python Multiprocessing으로 API 호출 속도 향상시키기: 여러 스레드로 한 번에 처리하기
+title: "Python Multiprocessing으로 API 호출 속도 향상시키기: 여러 스레드로 한 번에 처리하기"
 date: 2023-10-13
 categories: [Python]
 tags: [python, multiprocess]

@@ -1,5 +1,5 @@
 ---
-title: Spring에서 Scheduler 추가: 주기적인 작업 실행과 멀티 인스턴스 문제 해결 나만의 가이드
+title: "Spring에서 Scheduler 추가: 주기적인 작업 실행과 멀티 인스턴스 문제 해결 나만의 가이드"
 date: 2023-06-12
 categories: [Spring & JAVA]
 tags: [spring, scheduler]

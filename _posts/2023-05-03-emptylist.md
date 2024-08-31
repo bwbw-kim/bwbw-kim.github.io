@@ -1,5 +1,5 @@
 ---
-title: Collections.emptyList() 이해하기: Java에서 빈 리스트를 반환하는 이유와 장점
+title: "Collections.emptyList() 이해하기: Java에서 빈 리스트를 반환하는 이유와 장점"
 date: 2023-05-03
 categories: [Spring & JAVA]
 tags: [emptylist, collections]

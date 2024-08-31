@@ -1,5 +1,5 @@
 ---
-title: CSS ::after와 ::before로 요소 추가하기
+title: "CSS ::after와 ::before로 요소 추가하기"
 date: 2024-08-07
 categories:
   - Front

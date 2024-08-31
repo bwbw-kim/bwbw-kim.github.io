@@ -1,5 +1,5 @@
 ---
-title: CompletableFuture로 비동기 작업 처리: 사내 게시판 연동에서 성능 향상하기
+title: "CompletableFuture로 비동기 작업 처리: 사내 게시판 연동에서 성능 향상하기"
 date: 2023-10-17
 categories: [Python]
 tags: [completableFuture, async]

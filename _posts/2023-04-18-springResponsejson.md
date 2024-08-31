@@ -1,5 +1,5 @@
 ---
-title: Spring Controller에서 JSON 응답 보내기: @ResponseBody와 @RestController 사용법
+title: "Spring Controller에서 JSON 응답 보내기: @ResponseBody와 @RestController 사용법"
 date: 2023-04-18
 categories: [Spring & JAVA]
 tags: [spring, basic, json]

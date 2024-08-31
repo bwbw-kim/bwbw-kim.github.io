@@ -1,5 +1,5 @@
 ---
-title: SSL 인증 오류 해결: Java에서 Verify False로 Request 보내기
+title: "SSL 인증 오류 해결: Java에서 Verify False로 Request 보내기"
 date: 2024-07-26
 categories: [Spring & JAVA]
 tags: [request, ssl]

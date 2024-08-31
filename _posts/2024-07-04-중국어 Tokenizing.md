@@ -1,5 +1,5 @@
 ---
-title: 중국어 텍스트 분리: Tokenizing으로 검색 성능 향상시키기
+title: "중국어 텍스트 분리: Tokenizing으로 검색 성능 향상시키기"
 date: 2024-07-04
 categories: [Spring & JAVA]
 tags: [global, chinese, token, search]

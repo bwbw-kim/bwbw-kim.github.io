@@ -1,5 +1,5 @@
 ---
-title: 영어 문자열 Tokenizing 개선하기: 대문자 분리로 검색 정확도 높이기
+title: "영어 문자열 Tokenizing 개선하기: 대문자 분리로 검색 정확도 높이기"
 date: 2024-04-22
 categories: [Spring & JAVA]
 tags: [token, English]

@@ -1,5 +1,5 @@
 ---
-title: 웹사이트 팝업 공지, 왜 'n일간 보지 않기'일까?
+title: "웹사이트 팝업 공지, 왜 'n일간 보지 않기'일까?"
 date: 2024-05-20
 categories: [Front]
 tags: [notification]

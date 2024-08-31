@@ -1,5 +1,5 @@
 ---
-title: Kubernetes 인증서 만료 문제 해결하기: 'x509: certificate has expired' 에러
+title: "Kubernetes 인증서 만료 문제 해결하기: 'x509: certificate has expired' 에러"
 date: 2024-08-19
 categories:
   - misc

@@ -1,5 +1,5 @@
 ---
-title: 🔐 Sql Injection 보안 문제 해결 할 수 있을까?
+title: SQL 인젝션 보안 문제: Lucene에서 Elasticsearch로의 전환으로 해결하기
 date: 2023-03-06
 categories: [misc]
 tags: [SqlInjection, Search]

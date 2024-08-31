@@ -1,5 +1,5 @@
 ---
-title: 📔 Mock 을 이용해서 조금 더 고급! Test Case 만들어 보기
+title: Mockito로 Mocking하여 테스트 개선하기: DB 의존성 제거하기
 date: 2023-10-21
 categories:
   - Spring & JAVA

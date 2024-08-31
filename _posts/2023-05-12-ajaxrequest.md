@@ -1,5 +1,5 @@
 ---
-title: 🖐 spring 에서 내가 보낸 ajaxRequest 가리는 방법!
+title: Spring에서 AJAX 요청 필터링: X-Requested-With 헤더로 요청 구분하기
 date: 2023-05-12
 categories: [Spring & JAVA]
 tags: [emptylist, ajax, request]

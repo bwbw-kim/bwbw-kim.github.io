@@ -1,5 +1,5 @@
 ---
-title: 🌮 Cookie 와 LocalStorage 차이 알아보기 (Cookie vs LocalStorage)
+title: Cookie와 LocalStorage 비교: 저장 용량과 활용 방법
 date: 2023-07-19
 categories: [Front]
 tags: [cookie, localstorage]

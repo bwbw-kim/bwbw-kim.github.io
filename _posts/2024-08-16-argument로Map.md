@@ -1,5 +1,5 @@
 ---
-title: ⚠️ Argument로 Map 을 주는 것은 바람직하지 않다!
+title: 코드 가독성을 높이는 방법: Argument로 Map 사용 줄이기
 date: 2024-08-16
 categories:
   - Spring & JAVA

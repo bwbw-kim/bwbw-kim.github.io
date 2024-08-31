@@ -1,5 +1,5 @@
 ---
-title: 🤙 Spring Interceptor 가 도대체 뭔지 이해 해보기
+title: Spring Framework의 Interceptor: 공통 작업 처리 및 예제 코드
 date: 2023-04-25
 categories: [Spring & JAVA]
 tags: [spring, interceptor]

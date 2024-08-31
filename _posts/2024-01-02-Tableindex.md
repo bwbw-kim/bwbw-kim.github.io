@@ -1,5 +1,5 @@
 ---
-title: 👁️‍🗨️ Mysql DB Index 설정해서 Query 훨씬 빠르게 만들어보기
+title: MySQL 인덱스 설정으로 쿼리 속도 100배 빠르게 만들기
 date: 2024-01-02
 categories: [DB]
 tags: [mysql, index]

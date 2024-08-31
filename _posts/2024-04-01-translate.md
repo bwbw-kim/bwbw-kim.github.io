@@ -1,5 +1,5 @@
 ---
-title: 🗻 웹 페이지에 버튼 눌렀을떄 싹 번역 되는 번역 서비스 추가하기
+title: 버튼 클릭으로 실시간 번역! 웹 페이지에 글로벌 번역 서비스 추가하기
 date: 2024-04-01
 categories: [Front]
 tags: [translate, global]

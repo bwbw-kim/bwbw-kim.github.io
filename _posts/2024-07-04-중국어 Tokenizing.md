@@ -1,5 +1,5 @@
 ---
-title: 🌏 중국어 tokenizing 으로 중국어 형태소를 분리해버리기. (검색 고도화)
+title: 중국어 텍스트 분리: Tokenizing으로 검색 성능 향상시키기
 date: 2024-07-04
 categories: [Spring & JAVA]
 tags: [global, chinese, token, search]

@@ -1,5 +1,5 @@
 ---
-title: 🚸 html 에서 내가 원하는 글자만 highlight class 씌우기
+title: HTML에서 하이라이트 적용하기: 중복 문제를 방지하는 효율적인 방법
 date: 2024-08-29
 categories:
   - misc

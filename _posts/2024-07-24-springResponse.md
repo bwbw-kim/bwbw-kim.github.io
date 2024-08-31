@@ -1,5 +1,5 @@
 ---
-title: 🍯 Spring Response 하나의 method 에서 다양하게 주기 (view, json)
+title: 하나의 Spring 메서드에서 View와 JSON 동시에 처리하기: 꼼수와 팁
 date: 2024-07-24
 categories: [Spring & JAVA]
 tags: [spring, response]

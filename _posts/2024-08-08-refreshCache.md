@@ -1,5 +1,5 @@
 ---
-title: 🧫 배포 후 Client 브라우저의 js, css 캐시 사용하지 않게 하기
+title: 배포 후 웹 자원 캐시 문제 해결: JS와 CSS 강제 새로고침하는 법
 date: 2024-08-08
 categories:
   - Front

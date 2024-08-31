@@ -1,5 +1,5 @@
 ---
-title: 🎃 Scheduler 분산 시키기 (spring application 처음 시작 할때 cpu 사용량이 많을 때)
+title: Scheduler 분산하기: Spring 애플리케이션의 CPU 사용량 최적화하기
 date: 2024-05-13
 categories:
   - Spring & JAVA

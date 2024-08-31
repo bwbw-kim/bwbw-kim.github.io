@@ -1,5 +1,5 @@
 ---
-title: "🧸 Kubernetes 내부 인증서 갱신하기 (Unable to connect the server: x509: certificate has expired)"
+title: Kubernetes 인증서 만료 문제 해결하기: 'x509: certificate has expired' 에러
 date: 2024-08-19
 categories:
   - misc

@@ -1,5 +1,5 @@
 ---
-title: 🌥 Java 에서 shallow, deep Copy 의 차이 알아보기 (코드 포함)
+title: Java 자바에서 Shallow Copy와 Deep Copy 완벽 이해하기 (코드로 쉽게 배워보자!)
 date: 2024-05-27
 categories: [Spring & JAVA]
 tags: [copy, shallow, deep]

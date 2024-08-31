@@ -1,5 +1,5 @@
 ---
-title: 🔮 Click Event Tracker 만들어서 사용자가 어디 클릭했는지 알아보기
+title: 사용자 클릭 분석하기: Django와 JavaScript로 클릭 트래커 구축하기
 date: 2023-10-24
 categories: [Front]
 tags: [click, tracker, django]

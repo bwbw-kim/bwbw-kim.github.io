@@ -1,5 +1,5 @@
 ---
-title: 🍴 healthCheck 구축해서 우리 플랫폼 아프지 않게.. 그리고 아프더라도 빨리 알도록!
+title: HealthCheck 구축으로 시스템 안정성 확보: 플랫폼의 건강 상태 모니터링하기
 date: 2024-03-14
 categories: [misc]
 tags: [health check]

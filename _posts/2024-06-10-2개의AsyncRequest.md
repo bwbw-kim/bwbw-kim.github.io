@@ -1,5 +1,5 @@
 ---
-title: 🏸 2개의 Ajax Request 가 같은 데이터를 수정한다면? (race condition)
+title: Ajax 요청으로 인한 Race Condition 문제: 두 요청이 동시에 같은 데이터를 수정할 때 발생하는 오류와 해결법!
 date: 2024-06-10
 categories: [Front]
 tags: [ajax, async, race condition]

@@ -1,5 +1,5 @@
 ---
-title: 🐽 Spring 에서 Scheduler 추가 해서 주기적으로 특정 함수 돌리기
+title: Spring에서 Scheduler 추가: 주기적인 작업 실행과 멀티 인스턴스 문제 해결 나만의 가이드
 date: 2023-06-12
 categories: [Spring & JAVA]
 tags: [spring, scheduler]

@@ -1,5 +1,5 @@
 ---
-title: statepattern
+title: 상태 관리가 쉬워지는 State 패턴 구현 방법
 date: 2024-09-02
 categories:
   - Design Pattern

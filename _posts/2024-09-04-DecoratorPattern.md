@@ -1,5 +1,5 @@
 ---
-title: "DB 쿼리 성능 높이기: 변수 바인딩으로 속도 개선하기 (python, java)"
+title: Decorator 패턴으로 코드 확장성과 유지보수성 높이기
 date: 2024-09-04
 categories:
   - Design Pattern

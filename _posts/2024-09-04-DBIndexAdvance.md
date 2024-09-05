@@ -1,6 +1,6 @@
 ---
 title: "DB 쿼리 성능 높이기: 변수 바인딩으로 속도 개선하기 (python, java)"
-date: 2024-09-05
+date: 2024-09-04
 categories:
   - DB
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "DB 쿼리 성능 높이기: 변수 바인딩으로 속도 개선하기 (python, java)"
+title: "효율적인 Query Tuning: DB Index 설정 시 알아두면 좋은 팁"
 date: 2024-09-04
 categories:
   - DB

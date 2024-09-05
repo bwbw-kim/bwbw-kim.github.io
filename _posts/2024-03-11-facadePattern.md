@@ -1,6 +1,6 @@
 ---
 title: facade
-date: 2024-09-06
+date: 2024-03-11
 categories:
   - Design Pattern
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Decorator 패턴으로 코드 확장성과 유지보수성 높이기
-date: 2024-09-04
+date: 2024-02-06
 categories:
   - Design Pattern
 tags:

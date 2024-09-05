@@ -1,5 +1,5 @@
 ---
-title: facade
+title: "Facade 패턴으로 코드 복잡도 줄이기: 간단한 인터페이스로 복잡한 작업 처리"
 date: 2024-03-11
 categories:
   - Design Pattern

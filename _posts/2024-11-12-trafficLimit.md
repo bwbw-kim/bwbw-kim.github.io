@@ -1,6 +1,6 @@
 ---
 title: spring 에서 한 ip로 부터 들어오는 traffic 제한해보기
-date: 2024-11-18
+date: 2024-11-12
 categories:
   - Spring & JAVA
 tags:

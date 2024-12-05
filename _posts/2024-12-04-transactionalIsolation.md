@@ -48,7 +48,8 @@ spring transactional 에서는 5개의 level을 제공한다. 각각의 레벨�
 | **READ UNCOMMITTED** | 다른 트랜잭션에서 아직 커밋되지 않은 값도 읽을 수 있다                |
 | **READ COMMITTED**   | 다른 트랜잭션에서 커밋한 값만 읽을 수 있다. 읽으려고 하는게 커밋중이라면 기다린다 |
 | **REPEATABLE READ**  | 한 트랜잭션에서는 읽는 값이 무조건 동일하도록 보장한다                 |
-| **SERIALIZABLE**     | 완벽한 트랜잭션을 제공한다               
+| **SERIALIZABLE**     | 완벽한 트랜잭션을 제공한다                                 |
+
 따라서 발생할수 있는 문제를 방지할수있는지 여부는 아래와 같이 정리가 된다!
 
 | **격리 수준**            | **Dirty Read** 방지 | **Non-Repeatable Read** 방지 | **Phantom Read** 방지 |

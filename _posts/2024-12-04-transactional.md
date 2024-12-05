@@ -1,6 +1,6 @@
 ---
 title: Spring JPA 사용하는 Service에서 Transactional 사용하기 (간단한 코드)
-date: 2024-12-03
+date: 2024-12-04
 categories:
   - Spring & JAVA
 tags:

@@ -18,7 +18,7 @@ mermaid: true
 
 Spring의 bean에 등록이된 객체안에 어느 하나라도 transactional이 붙게되면 Spring에서는 그 객체의 proxy를 만들어 버린다! 따라서 아래와 같이 변화하게 된다
 
-```
+```mermaid
 flowchart LR
     A[client가 A클래스의 test 메소드를 사용하려고한다.] --> B[A 클래스의 proxy test 메소드호출]
 	B --> C[이제 진짜 A 클래스의 test메소드 호출]

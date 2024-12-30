@@ -1,6 +1,6 @@
 ---
 title: Spring Transactional 사용시 주의해야하는 점!
-date: 2024-12-09
+date: 2024-12-20
 categories:
   - Spring & JAVA
 tags:

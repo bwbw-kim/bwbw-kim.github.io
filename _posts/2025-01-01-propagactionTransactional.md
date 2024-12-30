@@ -1,6 +1,6 @@
 ---
 title: Spring Transactional 의 Propagation option 알아보기!
-date: 2024-12-10
+date: 2025-01-01
 categories:
   - Spring & JAVA
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Spring Transactional 의 Isolation 옵션 (격리수준) 알아보기
-date: 2024-12-04
+date: 2024-12-06
 categories:
   - Spring & JAVA
 tags:
